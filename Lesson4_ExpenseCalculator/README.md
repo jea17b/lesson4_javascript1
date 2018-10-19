@@ -4,22 +4,21 @@
 Web Application Development
 
 ### Assignment Date:  
-(Month Day, Year)
+(October 19, 2018)
 
 ### Student Name:  
-(First and Last Name)
+(Jordan Alexander)
 
 ### Project Description:
-(In your own words, briefly describe the assignment.)
+(In this assignment a mothly expense calculator application was developed.)
 
 ### View Project:
-(Replace this statement with your GitHub Page URL that was created when you 
- published the project.)
+(https://jea17b.github.io/lesson4_javascript1/)
 
 ### Lessons Learned in the Assignment:
-1. (Briefly describe a lesson/concept learned in this lesson.)
-2. (Briefly describe a lesson/concept learned in this lesson.)
-3. (Briefly describe a lesson/concept learned in this lesson.)
+1. (Using Javascript)
+2. (Using Pct tags to gain a percentage)
+3. (Designing a application with multiple tags)
 
 
 
